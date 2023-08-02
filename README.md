@@ -2,8 +2,6 @@
 
 _Kliensoldali webprogramozás 2. beadandó_
 
-```
-
 ## A feladat
 
 A beadandóban olyan webes alkalmazást kell írnod, amelyben egy felhasználónak lehetősége van többlépéses kérdőíveket összeállítania. Az elkészített kérdőíveket egy táblázatban át lehet tekinteni, ahol lehetőség van ezek módosítására, törlésére, valamint azok megosztására egy linken keresztül. Ezen a linken keresztül aztán a kérdőívet ki lehet tölteni. A kérdőívekhez tartozó válaszokat ezt követően egy külön felületen meg lehet tekinteni. 
