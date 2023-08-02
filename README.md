@@ -1,3 +1,5 @@
+**A feladat forrása: https://github.com/horvathgyozo/react-bead-surveys-starter-kit**
+
 # Kérdőívek
 
 _Kliensoldali webprogramozás 2. beadandó_
